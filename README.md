@@ -23,7 +23,6 @@
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibulislam999&show_icons=true&locale=en" alt="hasibulislam999" />
-  <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulislam999&" alt="hasibulislam999" />
 </p>
 

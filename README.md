@@ -25,3 +25,11 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </div>
+
+<div align="center">
+<h2>Reach me out on</h2>
+<a target="_blank"href="https://www.facebook.com/hasibulislam999.dev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
+<a target="_blank"href="mailto:hasib143sl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
+<a target="_blank"href="https://www.linkedin.com/in/hasibulislam999/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<a target="_blank"href="https://wa.me/01906315901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><a/>
+<div/>

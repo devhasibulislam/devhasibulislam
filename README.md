@@ -1,7 +1,7 @@
 <div align="center">
 <img width="33%" src="https://github-readme-stats.vercel.app/api?username=hasibulislam999&show_icons=true&theme=white" />
 <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulislam999&langs_count=4&layout=compact" />
-<img width="33%" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasibulislam999&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" />
+<img width="33%" src="http://github-readme-streak-stats.herokuapp.com?user=hasibulislam999&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="left">

@@ -8,6 +8,10 @@
 <img width="33%" src="http://github-readme-streak-stats.herokuapp.com?user=hasibulislam999&date_format=j%20M%5B%20Y%5D" />
 </div>
 
+<div align="center" width="100%">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hasibulislam999" />
+</div>
+
 <div align="left">
 <h2>Reach me out on</h2>
 <a target="_blank"href="https://www.facebook.com/hasibulislam999.dev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
@@ -150,8 +154,4 @@
 <h2>Listening music on</h2>
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-</div>
-
-<div align="center" width="100%">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hasibulislam999" />
 </div>

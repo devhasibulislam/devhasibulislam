@@ -8,10 +8,6 @@
 <img width="33%" src="http://github-readme-streak-stats.herokuapp.com?user=hasibulislam999&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-<div align="center" width="100%">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hasibulislam999" />
-</div>
-
 <div align="left">
 <h2>Reach me out on</h2>
 <a target="_blank"href="https://www.facebook.com/hasibulislam999.dev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>

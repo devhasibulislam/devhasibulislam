@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m working a MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me hasib143sl@gmail.com<br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m working a MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b>developer.hasibulislam@gmail.com</b><br>-⚡ Fun fact I think I am funny.</p>
 
 ###
 

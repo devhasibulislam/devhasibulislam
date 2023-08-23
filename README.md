@@ -32,6 +32,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=535&height=30&lines=5%2B+years+of+coding+Experience;Experienced+MERN+Stack+Developer.;Experienced+Full+Stack+Developer.;Lead+Generation+Expert.;Proficient+Web+Developer+and+Designer.;SEO+Specialist%2C+Driving+Online+Visibility.;Exploring+Insights." alt="Typing SVG" />
 
 ###
 

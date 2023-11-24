@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer & Lead Generation Expert<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b>developer.hasibulislam@gmail.com</b><br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer & Lead Generation Expert<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b><a href="mailto:devhasibulislam@gmail.com">devhasibulislam@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
 
 ###
 

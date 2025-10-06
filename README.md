@@ -47,9 +47,9 @@ I’m currently refining backend infrastructures that integrate **AI workflows**
 
 ## 📫 Let’s Connect
 
-|                            🌐 Portfolio                           |                             💼 LinkedIn                            |                        🐙 GitHub                       |                          📘 Facebook                          |                            ✉️ Email                           |
-| :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-| [devhasibulislam.vercel.app](https://devhasibulislam.vercel.app/) | [in/devhasibulislam](https://www.linkedin.com/in/devhasibulislam/) | [@devhasibulislam](https://github.com/devhasibulislam) | [@devhasibulislam](https://www.facebook.com/devhasibulislam/) | [devhasibulislam@gmail.com](mailto:devhasibulislam@gmail.com) |
+|                            🌐 Portfolio                           |                             💼 LinkedIn                            |                        🐙 GitHub                       |                          📘 Facebook                          |                            ✉️ Email                           |                   📱 WhatsApp                   |                          ▶️ YouTube                         |
+| :---------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------: | :---------------------------------------------------------: |
+| [devhasibulislam.vercel.app](https://devhasibulislam.vercel.app/) | [in/devhasibulislam](https://www.linkedin.com/in/devhasibulislam/) | [@devhasibulislam](https://github.com/devhasibulislam) | [@devhasibulislam](https://www.facebook.com/devhasibulislam/) | [devhasibulislam@gmail.com](mailto:devhasibulislam@gmail.com) | [Chat on WhatsApp](https://wa.me/8801906315901) | [YouTube Channel](https://www.youtube.com/@devhasibulislam) |
 
 ---
 

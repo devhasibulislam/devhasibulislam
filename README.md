@@ -1,6 +1,6 @@
 # Hi, I’m Hasibul Islam 👋
 
-I’m a **Full Stack Developer** specializing in the **MERN stack** with over **6 years of hands-on experience** building scalable, production-grade systems. My passion lies in crafting **robust backend architectures**, **real-time systems**, and **high-performance APIs** that power reliable modern applications.
+I’m a **Full Stack Developer** specializing in the **MERN stack** with over **10 years of hands-on experience** building scalable, production-grade systems. My passion lies in crafting **robust backend architectures**, **real-time systems**, and **high-performance APIs** that power reliable modern applications.
 
 I focus on building solutions that are fast, secure, and maintainable—from designing database schemas and optimizing queries to deploying distributed microservices on the cloud.
 

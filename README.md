@@ -44,8 +44,6 @@ Most of the source is under NDA, so the list below is what you can go visit. I'm
 
 - **[mallahyari/system-design-visualizer#4](https://github.com/mallahyari/system-design-visualizer/pull/4)** - I added Google Gemini as an alternative provider to OpenAI for the image-to-diagram analysis. Merged upstream in Dec 2025.
 
-More coming as I publish the repos below.
-
 ## Stack
 
 **Language and runtime:** Node.js, TypeScript
@@ -56,13 +54,12 @@ More coming as I publish the repos below.
 **Testing:** Jest, Supertest, Cypress, autocannon
 **Cross-cutting:** GraphQL, REST, webhooks, multi-tenant SaaS, caching, performance
 
-## Currently building
+## Public reference repos
 
-I'm turning the patterns behind the production systems above into public reference repos, one at a time.
+Small, focused repos that show how I approach specific backend problems. Each one is self-contained, runs locally with one command, and comes with tests and CI.
 
-1. **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)** - *published*. A reproducible NestJS + Postgres + Redis reference for the 200ms to 20ms techniques. Docker Compose, autocannon benchmarks, and one commit per optimization.
-2. **`nestjs-multitenant-starter`** *(next)* - header and subdomain tenant resolvers, Postgres RLS for isolation, seed data, and tests that prove one tenant can't read another's rows.
-3. **`webhook-ingest-worker`** *(after that)* - ingest, BullMQ, worker, with idempotency, retry with backoff, and a dead-letter queue. Same pattern that sits behind MessageMind's message pipeline.
+- **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)** - NestJS + Postgres + Redis reference that pulls a hot-path list endpoint from ~200ms down to ~20ms. Two endpoints (slow and fast) benchmarkable with `docker compose up && npm run bench`.
+- **[leetcode-javascript](https://github.com/devhasibulislam/leetcode-javascript)** - 227 LeetCode solutions in JavaScript across 28 algorithm categories, weighted toward the ones most working engineers skip (rolling hashes, biconnected components, Eulerian circuits, reservoir sampling).
 
 ## Contact
 

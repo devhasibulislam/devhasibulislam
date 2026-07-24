@@ -59,6 +59,7 @@ Most of the source is under NDA, so the list below is what you can go visit. I'm
 Small, focused repos that show how I approach specific backend problems. Each one is self-contained, runs locally with one command, and comes with tests and CI.
 
 - **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)** - NestJS + Postgres + Redis reference that pulls a hot-path list endpoint from ~200ms down to ~20ms. Two endpoints (slow and fast) benchmarkable with `docker compose up && npm run bench`.
+- **[nestjs-multitenant-starter](https://github.com/devhasibulislam/nestjs-multitenant-starter)** - NestJS + Postgres reference that isolates tenants at the database layer with Row-Level Security, not just at the app layer. Ships 8 integration tests that actively try to leak data across tenants; if any of them ever pass when they should fail, CI goes red.
 - **[leetcode-javascript](https://github.com/devhasibulislam/leetcode-javascript)** - 227 LeetCode solutions in JavaScript across 28 algorithm categories, weighted toward the ones most working engineers skip (rolling hashes, biconnected components, Eulerian circuits, reservoir sampling).
 
 ## Contact

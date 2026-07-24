@@ -5,7 +5,7 @@ Building multi-tenant SaaS platforms and real-time systems that hold up under pr
 
 Currently Sr. Backend Architect at [ZMC Technologies](https://zmc-technologies.com/), shipping backend infrastructure for AI-augmented omnichannel messaging, real-estate SaaS, and business-automation platforms.
 
-Recent production win: cut a hot-path API from **~200ms → ~20ms** through query flattening, targeted indexing, cache-aside, and serialization changes. Reproducible case study repo coming next — see [Currently building](#currently-building).
+Recent production win: cut a hot-path API from **~200ms → ~20ms** through query flattening, targeted indexing, cache-aside, and serialization changes. Reproducible reference: **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)** — clone, `docker compose up`, `npm run bench`, see the delta on your machine.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdevhasibulislam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devhasibulislam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devhasibulislam.vercel.app-2ea44f?style=flat&logo=vercel&logoColor=white)](https://devhasibulislam.vercel.app/)
@@ -52,9 +52,9 @@ Live products I've designed, built, or scaled. Source under NDA; happy to walk t
 
 Public code artifacts for the production systems above:
 
-1. **`api-latency-case-study`** — reproducible NestJS + Postgres + Redis reference implementation of the 200ms → 20ms techniques. Docker Compose, autocannon benchmarks, atomic commits per optimization.
-2. **`nestjs-multitenant-starter`** — header/subdomain tenant resolver with Postgres RLS-based isolation, seed data, and isolation tests.
-3. **`webhook-ingest-worker`** — ingest → BullMQ → worker with idempotency, retry, backoff, and DLQ — the pattern behind MessageMind's message pipeline.
+1. **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)** — *published.* Reproducible NestJS + Postgres + Redis reference for the 200ms → 20ms techniques. Docker Compose, autocannon benchmarks, atomic commits per optimization.
+2. **`nestjs-multitenant-starter`** *(next)* — header/subdomain tenant resolver with Postgres RLS-based isolation, seed data, and isolation tests.
+3. **`webhook-ingest-worker`** *(after)* — ingest → BullMQ → worker with idempotency, retry, backoff, and DLQ — the pattern behind MessageMind's message pipeline.
 
 ## Contact
 

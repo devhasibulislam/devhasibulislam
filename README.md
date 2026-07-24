@@ -3,7 +3,7 @@
 **Senior Backend Architect · 7+ years · Node.js, NestJS, TypeScript, AWS**
 I build multi-tenant SaaS backends and real-time systems that hold up in production.
 
-Currently Sr. Backend Architect at [ZMC Technologies](https://zmc-technologies.com/), shipping backend infrastructure for AI-augmented messaging, real-estate SaaS, and business-automation platforms.
+Currently Sr. Backend Architect at [ZMC Technologies](https://zmctechnologies.com/), shipping backend infrastructure for AI-augmented messaging, real-estate SaaS, and business-automation platforms.
 
 The recent thing I'm proudest of: I took a hot-path API from **~200ms to ~20ms** by flattening the queries, adding the right index, dropping in a cache-aside layer, and cutting the serialization down to what the caller actually needs. I rebuilt the whole technique in a public repo: **[api-latency-case-study](https://github.com/devhasibulislam/api-latency-case-study)**. Clone it, `docker compose up`, `npm run bench`, and you can watch the delta on your own machine.
 

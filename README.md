@@ -38,7 +38,14 @@ Client work delivered through my dev agency Prokken and, more recently, as Sr. B
 | **[NadlanOne](https://nadlanone.co.il/)** | Brokerage software that Israeli agencies have used for 20+ years. It runs the day-to-day of a real-estate office: the country's largest property feed updated in real time, CMA (comparative market analysis) reports, lead intake, tasks, digital signatures with unlimited contracts, WhatsApp and marketing automation, and call recording. | Listings backend, CMA report generation, broker workflows, marketing/WhatsApp automation |
 | **[ZDSL](https://zdsl.com.bd/)** | Corporate and project portal for Zubion Development Solutions Limited, a Bangladeshi real-estate developer active since 2012 and part of the Zubion Group. Runs the project catalogue (ongoing, upcoming, completed), landowner and client portals, video galleries, project geo-map, and the group's REHAB/RAJUK/BLDA membership presentation. | Backend, project catalogue, landowner and client portals, media pipeline |
 
-*I've also founded and sold two SaaS products (a social-media publishing API and a unified sales/messaging inbox), acquired by US companies in 2025. Product names and acquirers are under NDA and cannot be listed publicly. Happy to discuss under mutual NDA in an interview.*
+## Founder work (under NDA)
+
+Between 2021 and 2025 I founded and solo-engineered two SaaS products through my own agency Prokken:
+
+- A **unified social-media publishing and analytics API** (same category as Buffer or Hootsuite).
+- A **unified sales / messaging inbox** aggregating Email, LinkedIn, WhatsApp, Instagram, and Telegram into a single Kanban-based CRM (same category as Front or Missive).
+
+Both were acquired by US SaaS companies in 2025. Product names, acquirer identities, and terms are covered by acquisition NDAs and cannot be listed publicly. Contracts and NDAs on file; happy to walk through architecture, my specific technical scope, and provide documentation under mutual NDA in an interview.
 
 ## Open source
 
